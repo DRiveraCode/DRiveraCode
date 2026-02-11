@@ -43,5 +43,4 @@ I see video games as works of art, capable of sparking emotions and inspiration 
 
 ## Contact
 <b>Email: iriveradaniel30@gmail.com</b><br />
-<!-- <b>GitHub Page: [Portfolio Website](https://dirivera127843.github.io/)</b> -->
-<b>GitHub Page: Portfolio Website</b>
+<b>GitHub Page: [Portfolio Website](https://DRiveraCode.github.io/)</b>
