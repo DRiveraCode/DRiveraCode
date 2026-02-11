@@ -11,7 +11,7 @@
 My name is Daniel Rivera. I aspire to become a video game developer using the coding skills obtained from my time at Texas State Technical College.<br />
 I also have experience developing software (in Windows Forms) and websites, and am open to positions involving the creation of either.<br />
 <br />
-I hold an Associate's Degree in Computer Programming Technology.
+I hold an Associate's Degree in Computer Programming Technology and graduated with Honors on December 16th, 2025.
 - Creative
 - Passionate
 - Great attention to detail
